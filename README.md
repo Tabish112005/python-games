@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎮 Python Games Collection
 
 A curated collection of 2D arcade, racing, multiplayer, board, and reflex games built with **Python** and **Pygame**. This repository showcases diverse game development concepts—ranging from vector physics and AI waypoint navigation to sprite animation, mask-based collision detection, and local 2-player multiplayer.
@@ -336,3 +337,7 @@ Contributions, feature additions, and bug fixes are welcome!
 
 This project is open-source and available under the [MIT License](LICENSE).
 Feel free to use the code for learning, educational purposes, and building your own games!
+=======
+# python-games
+Python Games
+>>>>>>> 8509e7eabb5fd4fd88d144fbc8f8ef6a29074a30
